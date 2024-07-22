@@ -8,8 +8,7 @@ function App() {
 
   return (
     <>
-      <h2></h2>
-      <Button>Subscribe</Button>
+     
     </>
   )
 }
